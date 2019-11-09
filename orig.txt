@@ -1,0 +1,5 @@
+4
+area-1x	3	1000	area-7o	area-3p	area-5t
+area-3p	1	3000	area-1x	_	_
+area-5t	1	6876	area-1x	_	_
+area-7o	1	3467	area-1x	_	_

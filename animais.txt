@@ -1,0 +1,11 @@
+8
+jose leao 250.51 area-1x
+francisco leopardo 500.5 area-3p
+carlos ornitorrinco 50.5 area-3p
+manel lontra 200 area-1xy
+ricardo dinossauro 200000 area-7o
+maria ornitorrinco 40.5 area-3p
+alvaro tigre 400.2 area-5t
+leonor chita 200.7 area-5t
+
+
